@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/TwilioDevEd/client-quickstart-node"
+    "url": "github.com/alexhong89/TwilioNodeServer"
   },
   "keywords": [
     "twilio",
